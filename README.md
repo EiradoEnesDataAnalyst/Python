@@ -1,2 +1,2 @@
 # Python
-Repositorio de apuntes y prácticas realizadas en cursos de Barcelona Activa,Cibernàrium y IT-Academy. Incluye ejercicios y ejemplos desde nivel básico hasta avanzado en Python, análisis de datos, Pandas y otras herramientas para aprendizaje continuo.
+Repositorio de proyectos personales en Python centrados en análisis y manipulación de datos con Pandas. Incluye notebooks, prácticas aplicadas y desarrollos creados durante formaciones en Barcelona Activa–Cibernàrium e IT Academy, abarcando desde fundamentos hasta técnicas avanzadas.
